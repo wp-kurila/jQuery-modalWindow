@@ -22,6 +22,7 @@ body {
 }
 
 .popup {
+    text-align: center;
 	width: 300px;
 	transform: translate(-300%, -60%);
 	padding: 20px;
